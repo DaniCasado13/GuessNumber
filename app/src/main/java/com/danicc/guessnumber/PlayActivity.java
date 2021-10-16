@@ -25,7 +25,7 @@ public class PlayActivity extends AppCompatActivity {
 
 ActivityPlayBinding binding;
 Random rnd = new Random();
-public Integer numRandom=rnd.nextInt(3);
+public Integer numRandom=rnd.nextInt(101);
     Integer _nIntentosMaximo;
     public   Integer _nIntentosConsumidos=0;
     String _user;
