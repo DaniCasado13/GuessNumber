@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvname" translatable="false">Name</string>
+
+    <string name="tvintentos">Number of Attemps</string>
+    <string name="btsend">¡Play!</string>
+    <string name="instruccion">Enter a number</string>
+    <string name="comprobar">Check</string>
+    <string name="borrar">Delete</string>
+    <string name="gastado">"attempts wasted  "</string>
+    <string name="etNombre">Enter your name</string>
+    <string name="etNintentos">Number of Attempts</string>
+    <string name="nocultomayor">the hidden number is greater</string>
+    <string name="nocultomenor">the hidden number is less</string>
+    <string name="acierto">you got the number right</string>
+    <string name="fallo">you didn\'t get the number right</string>
+</resources>

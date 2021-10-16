@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvname">Nombre</string>
+    <string name="tvintentos">Numero de intentos</string>
+    <string name="btsend">¡A Jugar!</string>
+    <string name="instruccion">Introduce un numero</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="borrar">borrar</string>
+    <string name="gastado">Intentos gastados:</string>
+    <string name="etNombre">introduce tu nombre</string>
+    <string name="etNintentos">Numero de intentos</string>
+    <string name="nocultomayor">el numero oculto es mayor</string>
+    <string name="nocultomenor">el numero oculto es menor</string>
+    <string name="acierto">acertaste el numero</string>
+    <string name="fallo">No acertaste el numero</string>
+</resources>

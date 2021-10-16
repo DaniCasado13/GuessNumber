@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".PlayActivity">
+
+
+    <TextView
+        android:id="@+id/tvintroduce"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/instruccion"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etnumpropuesto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="0" />
+
+    <Button
+        android:id="@+id/btncomprobar"
+        android:layout_width="149dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:text="@string/comprobar"
+        android:onClick="onClickButtonPlay"/>
+
+    <Button
+        android:id="@+id/btnborrar"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="@string/borrar"
+        android:onClick="onClickButtonPlay"/>
+
+    <TextView
+        android:id="@+id/tvestado"
+        android:layout_width="400dp"
+        android:layout_height="75dp"
+        android:text="-"
+        android:textSize="30dp" />
+</LinearLayout>
