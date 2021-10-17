@@ -12,11 +12,14 @@ Minimun SDK:23
 
 <li>ConfigActivity</li>
 En esta activity se pide el nombre del usuario y el numero de intentos que desea tener. El EditText de los intentos solo permitira introducir numeros para evitar errores
+<img src="https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/img/1.JPG">
 
 <li>PlayActivity</li>
 En esta activity se permite jugar introduciendo numeros y pulsando en el boton comprobar, saldra un mensaje informando si hemos acertado.
 Si no hemos acertado el programa nos dira si el numero que buscamos es menor o mayor que el introducido y mostrara los intentos que nos quedan
 
+<img src="https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/img/2.JPG">
 
 <li>EndPlayActivity</li>
 Esta es la activity final del juego y mostrara el resultado: Si hemos acertado o no, el numero de intentos que hemos gastado y el numero oculto.
+<img src="https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/img/3.JPG">
