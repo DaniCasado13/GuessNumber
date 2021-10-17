@@ -7,6 +7,7 @@
 <h5>La segunda Activity sera el juego donde el jugador ira comprobando con un boton si el numero introducido es el correcto, en caso de que no lo sea</h5>
 <h5>se informara al usuario si el numero oculto es mayor o menor que el introducido</h5>
 
+<h5>La tercera Activity muestra el resultado final</h5>
 Versión API:31
 Minimun SDK:23
 
