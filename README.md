@@ -2,7 +2,7 @@
 
 
 <h4>Autor:Daniel Casado Carvajal</h4>
-<h4>Fecha de Finalización del proyecto:06/10/2021</h4>
+<h4>Fecha de Finalización del proyecto:15/10/2021</h4>
 <h5>App realizada en Java con android Studio la cual consiste en tres activity, la primera pide al jugador su nombre y el numero de intentos para adivinar un numero.</h5>
 <h5>La segunda Activity sera el juego donde el jugador ira comprobando con un boton si el numero introducido es el correcto, en caso de que no lo sea</h5>
 <h5>se informara al usuario si el numero oculto es mayor o menor que el introducido</h5>
