@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.danicc.guessnumber.Model.User;
 import com.danicc.guessnumber.databinding.ActivityPlayBinding;
 
 import java.util.Random;
@@ -42,10 +44,10 @@ Intent intento;
 
         Intent intent =getIntent();
         Bundle bundle = intent.getExtras();
-
+User usr = (User) bundle.getSerializable("user");
         _nIntentosConsumidos=0;
-        _nIntentosMaximo=bundle.getInt("intentos");
-        _user= bundle.getString("name");
+       _nIntentosMaximo=usr.getAttempts();
+       _user= usr.getName();
 
     }
     public void onClickButtonPlay(View view) {
