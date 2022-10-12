@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etNombreUser">Name</string>
+    <string name="etIntentos">try</string>
+    <string name="btnJugar">¡Play!</string>
+    <string name="ErrorZero">The number of attempts must be greater than 0</string>
+    <string name="ErrorEmpty">Fields cannot be empty</string>
+    <string name="tvtextoplay">Enter a number.</string>
+    <string name="hintNumeroIntentado">number</string>
+    <string name="btnProbar">Check</string>
+    <string name="btnBorrar">Erase</string>
+    <string name="tvInfo">_</string>
+    <string name="msgMayor">the number is greater</string>
+    <string name="msgMenor">the number is less</string>
+    <string name="ErrorType">invalid value</string>
+    <string name="tvFinalMessage">_</string>
+    <string name="intentos">try</string>
+    <string name="ganado">"You have won using  "</string>
+    <string name="perdido"><![CDATA[You lost, the number was ->]]></string>
+</resources>

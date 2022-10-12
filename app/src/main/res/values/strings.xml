@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etNombreUser">Nombre</string>
+    <string name="etIntentos">Intentos</string>
+    <string name="btnJugar">¡A Jugar!</string>
+    <string name="ErrorEmpty">Los campos no pueden estar vacios</string>
+    <string name="tvtextoplay">Introduce un numero.</string>
+    <string name="hintNumeroIntentado">numero</string>
+    <string name="btnProbar">Comprobar</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="tvInfo">_</string>
+    <string name="msgMayor">El numero es mayor</string>
+    <string name="msgMenor">El numero es menor</string>
+    <string name="ErrorType">Valor no valido</string>
+    <string name="tvFinalMessage">_</string>
+    <string name="ganado">"Has ganado utilizando "</string>
+    <string name="intentos">intentos</string>
+    <string name="perdido"><![CDATA[Perdiste, el numero era ->]]></string>
+    <string name="ErrorZero">El numero de intentos debe ser mayor a 0</string>
+</resources>
