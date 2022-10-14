@@ -18,6 +18,10 @@ La tercera(EndPlayActivity) muestra el resultado del juego una vez este ha concl
 <h1>ConfigActivity</h1>
 Es la primera pantalla que se ejecutará al lanzar la Aplicación.</br> En ella se nos pedira nuestro nombre de usuario y el numero de intentos con el que queremos jugar.
 <br>
+
+![Imagen_Config](https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/imagenes/1.JPG))
+
+<br>
 <h1>PlayActivity</h1>
 Es la pantalla que realmente gestiona nuestro juego.</br> En ella se pide al usuario introducir el numero que cree que es el correcto y se actua segun el caso:<br>
 <ol>
@@ -26,6 +30,10 @@ Es la pantalla que realmente gestiona nuestro juego.</br> En ella se pide al usu
 <li> Acierto: El numero introducido por el usuario es el correcto y gana el juego</li>
 </ol>
 <br>
+
+![Imagen_Play](https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/imagenes/2.JPG))
+
+<br>
 <h1>EndPlayActivity</h1>
 Es la pantalla final de nuestro juego, en la cual se informa al usuario lo que ha ocurrido segun el caso, el juego finaliza de las siguientes maneras:
 <ol>
@@ -33,6 +41,16 @@ Es la pantalla final de nuestro juego, en la cual se informa al usuario lo que h
 <li> El usuario pierde: Se informa al usuario de que ha perdido y se muetra el numero que era el correcto</li>
 
 </ol>
+<br>
+<br>
+<br>
+
+![Imagen_End1](https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/imagenes/3.JPG))
+
+![Imagen_End2](https://github.com/DaniCasado13/GuessNumber/blob/master/app/src/main/res/imagenes/4.JPG))
+
+<br>
+<br>
 Documentacion utilizada
 
 https://moronlu18.com/wordpress/
